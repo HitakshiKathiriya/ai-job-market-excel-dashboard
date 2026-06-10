@@ -9,7 +9,7 @@ Excel, data analysis, and visualization skills.
 ---
 
 ## 🖼️ Dashboard Preview
-*(Screenshot coming soon)*
+![Dashboard Preview](dashboard_preview.png)
 
 ---
 
